@@ -18,9 +18,9 @@
 
 I specialize in clean architecture, performance optimization, and delivering apps that scale. Currently leading mobile development at **Fitpage**, where I scaled the app from under 10K to over 100K users — reducing crash rates by 40%.
 
-- 🔭 Currently working at **Fitpage**, Mumbai
+- 🔭 Currently working at **ICICI Lombard General Insurance**, Mumbai
 - 📱 Built & shipped apps on both **Play Store** and **App Store**
-- 🏃 Creator of the **India Running** app — powering marathon registrations for 10K+ participants
+- 🏃 Founding Developer of the **India Running** app — powering marathon registrations for 10K+ participants
 - 🍎 Published an **open-source Apple Watch plugin & Flutter Cupertino Symbols** on pub.dev
 - 🎓 B.Sc. Computer Science, Mumbai University
 
@@ -102,7 +102,8 @@ I specialize in clean architecture, performance optimization, and delivering app
 ## 🏆 Experience Timeline
 
 ```
-2022 – Present   │  Senior Mobile Application Developer @ Fitpage, Mumbai
+2026 – Present   │  Software Engineer @ ICICI Lombard, Mumbai
+2022 – 2026   │  Senior Mobile Application Developer @ Fitpage, Mumbai
 2020 – 2022      │  Flutter App Developer @ Tradexa Technologies, Pune
 2017 – 2020      │  B.Sc. Computer Science, Mumbai University
 ```
