@@ -102,10 +102,10 @@ I specialize in clean architecture, performance optimization, and delivering app
 ## 🏆 Experience Timeline
 
 ```
-2026 – Present   │  Software Engineer @ ICICI Lombard, Mumbai
-2022 – 2026   │  Senior Mobile Application Developer @ Fitpage, Mumbai
-2020 – 2022      │  Flutter App Developer @ Tradexa Technologies, Pune
-2017 – 2020      │  B.Sc. Computer Science, Mumbai University
+2026 – Present │  Software Engineer @ ICICI Lombard, Mumbai
+2022 – 2026    │  Senior Mobile Application Developer @ Fitpage, Mumbai
+2020 – 2022    │  Flutter App Developer @ Tradexa Technologies, Pune
+2017 – 2020    │  B.Sc. Computer Science, Mumbai University
 ```
 
 ---
